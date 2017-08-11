@@ -12,31 +12,26 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Optimization-Based Control",
+    "Robust Optimization",
+    "Model Predictive Control"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD from the Cognitive Humanoids laboratory of the 'Robotics Brain and Cognitive Sciences' department"
+  institution = "IIT and University of Genoa"
+  year = 2013
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "MEng in Computer Engineering"
+  institution = "2nd faculty of the University of Bologna (Italy)"
   year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Andrea Del Prete was born in Cesena (Italy) in 1984. Since 2014 he has been a PostDoc at LAAS-CNRS in Toulouse, working on model-based control with HRP-2. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+His research focuses on the use of optimization algorithms for control, planning and estimation of legged robots. He is interested in convex optimization, model predictive control, robust optimization, chance-constrained programming, joint torque control, capturability, multi-body dynamics, redundant and underactuated robots, reinforcement learning. 
