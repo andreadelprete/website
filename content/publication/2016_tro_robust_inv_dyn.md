@@ -6,25 +6,24 @@ date = "2016-10-01"
 image_preview = ""
 math = true
 publication_types = ["2"]
-publication = "In *IEEE Transaction on Robotics*."
-publication_short = "In *IEEE Transaction on Robotics*"
+publication = "*IEEE Transaction on Robotics*"
+publication_short = "*T-Ro*"
 selected = true
 title = "Robustness to Joint-Torque-Tracking Errors in Task-Space Inverse Dynamics"
-#url_code = "#"
-#url_dataset = "#"
+url_code = ""
+url_dataset = ""
 url_pdf = "http://hal.archives-ouvertes.fr/hal-01241974/document"
-#url_project = "project/deep-learning/"
-#url_slides = "#"
+url_project = ""
+url_slides = ""
 url_video = "https://www.youtube.com/watch?v=pnar5WQY5Vg"
 
 #[[url_custom]]
 #name = "Custom Link"
 #url = "http://www.example.org"
 
-# Optional featured image (relative to `static/img/` folder).
-#[header]
-#image = "30_robots_walking.jpg"
-#caption = "Simulation of 30 HRP-2 robots walking in the presence of uncertainties, the goal being to compare the classic TSID controller (left line, gray heads) to the proposed robust TSID controllers: stochastic (central line, green heads) and worst-case (right line, red heads). Some of the simulation results can be seen in the accompanying video."
+[header]
+image = "30_robots_walking.jpg"
+caption = "Simulation of 30 HRP-2 robots walking in the presence of uncertainties, the goal being to compare the classic TSID controller (left line, gray heads) to the proposed robust TSID controllers: stochastic (central line, green heads) and worst-case (right line, red heads). Some of the simulation results can be seen in the accompanying video."
 
 +++
 {{< youtube pnar5WQY5Vg >}}
