@@ -15,7 +15,7 @@ url_dataset = ""
 url_pdf = "https://hal.inria.fr/hal-01109375v2/document"
 url_project = ""
 url_slides = ""
-url_video = ""
+url_video = "https://www.youtube.com/watch?v=ZJpv7K452_Q"
 
 #[[url_custom]]
 #name = "Custom Link"
@@ -26,3 +26,5 @@ url_video = ""
 #caption = ""
 
 +++
+
+{{< youtube ZJpv7K452_Q >}}
