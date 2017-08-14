@@ -5,7 +5,7 @@ authors = ["Andrea Del Prete", "Francesco Nori", "Giorgio Metta", "Lorenzo Natal
 date = "2015-05-01"
 image_preview = ""
 math = true
-publication_types = ["1"]
+publication_types = ["2"]
 publication = "*Robotics and Autonomous Systems*"
 publication_short = "*RAS*"
 volume = 63
@@ -28,4 +28,6 @@ caption = ""
 
 +++
 
-#{{< youtube ngk2dh_jzuw >}}
+<div align="center">
+<iframe marginheight="0" marginwidth="0" frameborder="0" style="border: 0" scrolling="no" width="400" height="318" align="middle" src="http://audioslides.elsevier.com//ViewerSmall.aspx?source=1&doi=10.1016/j.robot.2014.08.016">
+</div>
