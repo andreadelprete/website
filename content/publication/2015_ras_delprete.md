@@ -16,11 +16,11 @@ url_dataset = ""
 url_pdf = "http://arxiv.org/abs/1410.3863"
 url_project = ""
 url_slides = ""
-url_video = "http://www.sciencedirect.com/science/article/pii/S0921889014001742"
+url_video = ""
 
-#[[url_custom]]
-#name = "Custom Link"
-#url = "http://www.example.org"
+[[url_custom]]
+name = "Journal website"
+url = "http://www.sciencedirect.com/science/article/pii/S0921889014001742"
 
 [header]
 image = ""
