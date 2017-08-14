@@ -104,7 +104,8 @@ defaultContentLanguageInSubdir = false
     'Technical report',  # 4
     'Book',  # 5
     'Book chapter',  # 6
-	'Workshop' # 7
+	'Workshop', # 7
+	'Thesis' # 8
   ]
 
   # Social/Academic Networking
