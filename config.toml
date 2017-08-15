@@ -140,6 +140,16 @@ defaultContentLanguageInSubdir = false
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/andreadelprete"
+	
+  [[params.social]]
+    icon = "researchgate"
+    icon_pack = "ai"
+    link = "https://www.researchgate.net/profile/Andrea_Del_Prete"
+	
+  [[params.social]]
+    icon = "mendeley"
+    icon_pack = "ai"
+    link = "https://www.mendeley.com/profiles/andrea-del-prete/"
 
 
 # Navigation Links
@@ -154,8 +164,27 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Publications"
+  identifier = "Publications"
   url = "#publications_selected"
   weight = 2
+
+[[menu.main]]
+  name = "Selected publications"
+  parent = "Publications"
+  url = "#publications_selected"
+  weight = 3
+  
+[[menu.main]]
+  name = "Recent publications"
+  parent = "Publications"
+  url = "#publications"
+  weight = 4
+  
+[[menu.main]]
+  name = "All publications"
+  parent = "Publications"
+  url = "https://andreadelprete.github.io/publication/"
+  weight = 5
 
 #[[menu.main]]
 #  name = "Posts"
@@ -170,12 +199,12 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Events"
   url = "#events"
-  weight = 5
+  weight = 50
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 60
 
 # Taxonomies.
 [taxonomies]
