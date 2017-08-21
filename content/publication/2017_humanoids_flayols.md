@@ -12,7 +12,7 @@ selected = false
 title = "Experimental Evaluation of Simple Estimators for Humanoid Robots"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "https://hal.archives-ouvertes.fr/hal-01574819/document"
 url_project = "" 
 #####"project/deep-learning/"
 url_slides = ""
