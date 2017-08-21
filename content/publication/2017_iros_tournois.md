@@ -12,7 +12,7 @@ selected = false
 title = "Online Payload Identification for Quadruped Robots"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "https://hal.archives-ouvertes.fr/hal-01575033/document"
 url_project = "" 
 #"project/deep-learning/"
 url_slides = ""
