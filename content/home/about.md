@@ -14,7 +14,12 @@ weight = 1
   interests = [
     "Optimization-Based Control",
     "Robust Optimization",
-    "Model Predictive Control"
+    "Model Predictive Control",
+	"Viability",
+	"Torque Control",
+	"Chance-constrained Programming",
+	"Optimal Control",
+	"Reinforcement Learning"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -30,8 +35,10 @@ weight = 1
  
 +++
 
-# Biography
+# About Me
 
-Andrea Del Prete was born in Cesena (Italy) in 1984. Since 2014 he has been a PostDoc at LAAS-CNRS in Toulouse, working on model-based control with HRP-2. 
+My name is Andrea Del Prete. I am a robotics researcher in the [Gepetto team](http://projects.laas.fr/gepetto/index.php) (LAAS-CNRS, Toulouse), where I work (mainly) with the humanoid robot HRP-2. My research focuses on the use of optimization algorithms for control, planning and estimation of legged robots. In this website you can find all my publications with links to open-access PDF files, videos and code. Each publication has a dedicated page where visitors can leave comments.
 
-His research focuses on the use of optimization algorithms for control, planning and estimation of legged robots. He is interested in convex optimization, model predictive control, robust optimization, chance-constrained programming, joint torque control, capturability, multi-body dynamics, redundant and underactuated robots, reinforcement learning. 
+Before coming to LAAS in 2014 I have spent four years (3 of PhD + 1 of post-doc) at the Italian Institute of Technology (IIT, Genova, Italy), where I have worked with [Lorenzo Natale](http://lornat75.github.io/) and [Francesco Nori](http://iron76.github.io/) on the [iCub](http://www.icub.org/) humanoid robot.
+
+In 2013 I started a fruitful collaboration with [Michele Focchi](https://www.researchgate.net/profile/Michele_Focchi), an IIT researcher working with the [Hydraulic Quadruped HyQ](http://new.semini.ch/research/hyq-robot/).
