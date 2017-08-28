@@ -168,11 +168,11 @@ defaultContentLanguageInSubdir = false
   url = "#publications_selected"
   weight = 20
 
-[[menu.main]]
-  name = "Selected publications"
-  parent = "Publications"
-  url = "#publications_selected"
-  weight = 30
+#[[menu.main]]
+#  name = "Selected publications"
+#  parent = "Publications"
+#  url = "#publications_selected"
+#  weight = 30
   
 [[menu.main]]
   name = "Recent publications"
@@ -194,7 +194,7 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 55
+  weight = 15
 
 [[menu.main]]
   name = "Events"
