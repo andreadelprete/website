@@ -39,8 +39,10 @@ weight = 1
 
 My name is Andrea Del Prete. I am a robotics researcher focusing on the use of optimization algorithms for control, planning and estimation of legged robots. In this website you can find all my publications with links to open-access PDF files, videos and code. Each publication has a dedicated page where visitors can leave comments.
 
-Since 2014 I am an associated researcher in the [Gepetto team](http://projects.laas.fr/gepetto/index.php) (LAAS-CNRS, Toulouse), where I work with the humanoid robot HRP-2. Here I am mainly collaborating with [Nicolas Mansard](http://projects.laas.fr/gepetto/index.php/Members/NicolasMansard), [Olivier Stasse](https://homepages.laas.fr/ostasse/drupal/node/11), [Steve Tonneau](http://stevetonneau.fr/) and [Justin Carpentier](https://jcarpent.github.io/).
+Since 2018 I have been a post-doc in the Movement Generation and Control group at the Max-Planck Institute for Intelligent Systems (Tübingen, Germany), under the lead of [Ludovic Righetti](https://is.tuebingen.mpg.de/person/lrighetti).
 
-Before coming to LAAS I have spent four years (3 of PhD + 1 of post-doc) at the Italian Institute of Technology (IIT, Genova, Italy), where I have worked with [Lorenzo Natale](http://lornat75.github.io/) and [Francesco Nori](http://iron76.github.io/) on the [iCub](http://www.icub.org/) humanoid robot.
+From 2014 to 2017 I had been an associated researcher in the [Gepetto team](http://projects.laas.fr/gepetto/index.php) (LAAS-CNRS, Toulouse), where I have been working with the humanoid robot HRP-2. My main collaborations were with [Nicolas Mansard](http://projects.laas.fr/gepetto/index.php/Members/NicolasMansard), [Olivier Stasse](https://homepages.laas.fr/ostasse/drupal/node/11), [Steve Tonneau](http://stevetonneau.fr/) and [Justin Carpentier](https://jcarpent.github.io/).
+
+Before going to LAAS I had spent four years (3 of PhD + 1 of post-doc) at the Italian Institute of Technology (IIT, Genova, Italy), where I had worked with [Lorenzo Natale](http://lornat75.github.io/) and [Francesco Nori](http://iron76.github.io/) on the [iCub](http://www.icub.org/) humanoid robot.
 
 In 2013 I also started a fruitful collaboration with [Michele Focchi](https://www.researchgate.net/profile/Michele_Focchi), an IIT researcher working with the [Hydraulic Quadruped HyQ](http://new.semini.ch/research/hyq-robot/).

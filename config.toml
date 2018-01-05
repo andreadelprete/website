@@ -21,15 +21,15 @@ defaultContentLanguageInSubdir = false
 [params]
   name = "Andrea Del Prete"
   role = "Researcher of Robotics"
-  organization = "LAAS/CNRS"
-  organization_url = ""
+  organization = "Max Planck Institute for Intelligent Systems"
+  organization_url = "https://is.tuebingen.mpg.de/"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "adelpret@laas.fr"
+  email = "andrea.delprete@tuebingen.mpg.de"
   email2 = "andre.delprete@gmail.com"
-  address = "LAAS/CNRS, 7 Avenue du Colonel Roche, 31077 Toulouse, France"
+  address = "Office N2.011, Max-Planck-Ring 4, Tuebingen, Germany"
 #  office_hours = "email for appointment"
-  phone = "+33 5.61.33.68.90 "
+  phone = "+49 70701 601 "
   skype = "peppi_bass"
   telegram = ""
 
@@ -129,7 +129,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:adelpret@laas.fr"
+    link = "mailto:andre.delprete@gmail.com"
 
   [[params.social]]
     icon = "google-scholar"
