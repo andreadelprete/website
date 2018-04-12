@@ -39,7 +39,7 @@ weight = 1
 
 My name is Andrea Del Prete. I am a robotics researcher focusing on the use of optimization algorithms for control, planning and estimation of legged robots. In this website you can find all my publications with links to open-access PDF files, videos and code. Each publication has a dedicated page where visitors can leave comments.
 
-Since 2018 I have been a post-doc in the Movement Generation and Control group at the Max-Planck Institute for Intelligent Systems (Tübingen, Germany), under the lead of [Ludovic Righetti](https://is.tuebingen.mpg.de/person/lrighetti).
+Since 2018 I have been a research scientist in the Movement Generation and Control group at the Max-Planck Institute for Intelligent Systems (Tübingen, Germany), under the lead of [Ludovic Righetti](https://is.tuebingen.mpg.de/person/lrighetti).
 
 From 2014 to 2017 I had been an associated researcher in the [Gepetto team](http://projects.laas.fr/gepetto/index.php) (LAAS-CNRS, Toulouse), where I have been working with the humanoid robot HRP-2. My main collaborations were with [Nicolas Mansard](http://projects.laas.fr/gepetto/index.php/Members/NicolasMansard), [Olivier Stasse](https://homepages.laas.fr/ostasse/drupal/node/11), [Steve Tonneau](http://stevetonneau.fr/) and [Justin Carpentier](https://jcarpent.github.io/).
 
