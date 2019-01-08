@@ -21,15 +21,15 @@ defaultContentLanguageInSubdir = false
 [params]
   name = "Andrea Del Prete"
   role = "Researcher of Robotics"
-  organization = "Max Planck Institute for Intelligent Systems"
-  organization_url = "https://is.tuebingen.mpg.de/"
+  organization = "University of Trento"
+  organization_url = "www.dii.unitn.it"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait_2018.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "adelprete@tue.mpg.de"
+  email = "andrea.delprete@unitn.it"
   email2 = "andre.delprete@gmail.com"
-  address = "Office N2.011, Max-Planck-Ring 4, Tuebingen, Germany"
+  address = "Dipartimento di Ingegneria Industriale, Via Sommarive 9, 38123 Povo, Trento, Italy"
 #  office_hours = "email for appointment"
-  phone = "+49 7071 601 1902"
+  phone = ""
   skype = "peppi_bass"
   telegram = ""
 
