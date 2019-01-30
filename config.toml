@@ -22,7 +22,7 @@ defaultContentLanguageInSubdir = false
   name = "Andrea Del Prete"
   role = "Researcher of Robotics"
   organization = "University of Trento"
-  organization_url = "www.dii.unitn.it"
+  organization_url = "https://www.dii.unitn.it"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait_2018.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "andrea.delprete@unitn.it"
@@ -195,6 +195,11 @@ defaultContentLanguageInSubdir = false
   name = "Projects"
   url = "#projects"
   weight = 15
+
+[[menu.main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 55
 
 [[menu.main]]
   name = "Events"
