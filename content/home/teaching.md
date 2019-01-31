@@ -18,8 +18,8 @@ weight = 55
 #### [Memmo Winter School](https://memmows.sciencesconf.org),  January 28-31 2019, IDIAP (Martigny, Switzerland)
 I have given a 3-hour class about TSID, covering both theory and implementation. Here you can find the slides of the class:
 
-- [TSID Theory](https://andreadelprete.github.io/teaching/tsid/1_theory.pdf)
-- [TSID Implementation](https://andreadelprete.github.io/teaching/tsid/2_implementation.pdf)
+- [TSID Theory](https://andreadelprete.github.io/teaching/tsid/1_tsid_theory.pdf)
+- [TSID Implementation](https://andreadelprete.github.io/teaching/tsid/2_tsid_implementation.pdf)
 
 I have also given a class on [robust TSID](https://andreadelprete.github.io/publication/2016_tro_robust_inv_dyn/):
 
