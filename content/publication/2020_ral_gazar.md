@@ -3,11 +3,11 @@ abstract = "Linear Model Predictive Control (MPC) has been successfully  used  f
 abstract_short = ""
 authors = ["Ahmad Gazar, Majid Khadiv, Andrea Del Prete, Ludovic Righetti"]
 date = "2020-06-01"
-image_preview = ""
+image_preview = "2020_ral_gazar.png"
 math = true
 publication_types = ["2"]
 publication = "*Robotics and Automation Letters* (under review)"
-publication_short = "*RAL*"
+publication_short = "*RAL* (submitted to)"
 selected = false
 title = "Stochastic and Robust MPC for Bipedal Locomotion: A Comparative Study on Robustness and Performance"
 url_code = ""
@@ -22,7 +22,7 @@ url_video = ""
 #url = "http://www.example.org"
 
 [header]
-image = ""
+image = "2020_ral_gazar.png"
 caption = ""
 
 +++

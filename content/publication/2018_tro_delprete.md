@@ -3,7 +3,7 @@ abstract = "The  ability  to  anticipate  a  fall  is  fundamental  for any  rob
 abstract_short = ""
 authors = ["Andrea Del Prete", "Steve Tonneau", "Nicolas Mansard"]
 date = "2018-03-01"
-image_preview = ""
+image_preview = "2018_tro_delprete.png"
 math = true
 publication_types = ["2"]
 publication = "*IEEE Transactions on Robotics*"
@@ -22,7 +22,7 @@ url_video = "https://youtu.be/WjVcNeMapN8"
 #url = "http://www.example.org"
 
 [header]
-image = ""
+image = "2018_tro_delprete.png"
 caption = ""
 +++
 
