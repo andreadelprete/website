@@ -40,6 +40,8 @@ weight = 1
 
 My name is Andrea Del Prete. I am a robotics researcher focusing on the use of optimization algorithms for control, planning and estimation of legged robots. In this website you can find all my publications with links to open-access PDF files, videos and code. Each publication has a dedicated page where visitors can leave comments.
 
+### Brief Bio
+
 Since 2019 I have been a tenure-track assistant professor (RTD-B) in the [Industrial Engineering Department of the University of Trento](https://www.dii.unitn.it) (Italy).
 
 In 2018 I had been a research scientist in the Movement Generation and Control group at the Max-Planck Institute for Intelligent Systems (Tübingen, Germany), under the lead of [Ludovic Righetti](https://is.tuebingen.mpg.de/person/lrighetti).
@@ -51,3 +53,14 @@ Before going to LAAS I had spent four years (3 of PhD + 1 of post-doc) at the It
 In 2013 I also started a fruitful collaboration with [Michele Focchi](https://www.researchgate.net/profile/Michele_Focchi), an IIT researcher working with the [Hydraulic Quadruped HyQ](http://new.semini.ch/research/hyq-robot/).
 
 Since 2020 I am serving as an Associate Editor for [IEEE Robotics and Automation Letters](https://www.ieee-ras.org/publications/ra-l).
+
+### PhD Students
+
+* **Gabriele Fadini** (co-supervision with Thomas Flayols and Philippe Soueres @ LAAS/CNRS, Toulouse, France)
+
+
+* **Gianluigi Grandesso**. 
+
+* **Luca Olivieri**
+
+* **Ahmad Gazar** (co-supervision with Ludovic Righetti @ MPI, Tuebingen, Germany)
