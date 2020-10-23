@@ -56,11 +56,10 @@ Since 2020 I am serving as an Associate Editor for [IEEE Robotics and Automation
 
 ### PhD Students
 
-* **Gabriele Fadini** (co-supervision with Thomas Flayols and Philippe Soueres @ LAAS/CNRS, Toulouse, France)
+* **Gabriele Fadini** (co-supervision with Thomas Flayols and Philippe Soueres @ LAAS/CNRS, Toulouse, France): Co-Design for energy efficient legged robots.
 
+* **Gianluigi Grandesso** (co-supervision with Patrick Wensing @ University of Notre Dame, USA): Co-Design with Reinforcement Learning.
 
-* **Gianluigi Grandesso**. 
+* **Luca Olivieri**: MPC for quadruped robots.
 
-* **Luca Olivieri**
-
-* **Ahmad Gazar** (co-supervision with Ludovic Righetti @ MPI, Tuebingen, Germany)
+* **Ahmad Gazar** (co-supervision with Ludovic Righetti @ MPI, Tuebingen, Germany): Stochastic and Robust MPC for legged robots.
