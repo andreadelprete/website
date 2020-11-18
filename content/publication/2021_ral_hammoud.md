@@ -15,7 +15,7 @@ url_dataset = ""
 url_pdf = ""
 url_project = ""
 url_slides = ""
-url_video = ""
+url_video = "https://youtu.be/GaXoBuVczEw"
 
 #[[url_custom]]
 #name = "Custom Link"
@@ -26,3 +26,5 @@ image = "2021_ral_hammoud.png"
 caption = ""
 
 +++
+
+{{< youtube GaXoBuVczEw >}}
