@@ -42,7 +42,7 @@ My name is Andrea Del Prete. I am a robotics researcher focusing on the use of o
 
 ### Brief Bio
 
-Since 2019 I have been a tenure-track assistant professor (RTD-B) in the [Industrial Engineering Department of the University of Trento](https://www.dii.unitn.it) (Italy).
+Since 2019 I have been a tenure-track assistant professor (RTD-B) in the [Industrial Engineering Department of the University of Trento](https://www.dii.unitn.it) (Italy), where I am teaching robotics and computer programming in C++.
 
 In 2018 I had been a research scientist in the Movement Generation and Control group at the Max-Planck Institute for Intelligent Systems (Tübingen, Germany), under the lead of [Ludovic Righetti](https://is.tuebingen.mpg.de/person/lrighetti).
 
@@ -50,16 +50,17 @@ From 2014 to 2017 I had been an associated researcher in the [Gepetto team](http
 
 Before going to LAAS I had spent four years (3 of PhD + 1 of post-doc) at the Italian Institute of Technology (IIT, Genova, Italy), where I had been working with [Lorenzo Natale](http://lornat75.github.io/) and [Francesco Nori](http://iron76.github.io/) on the [iCub](http://www.icub.org/) humanoid robot.
 
-In 2013 I also started a fruitful collaboration with [Michele Focchi](https://www.researchgate.net/profile/Michele_Focchi), an IIT researcher working with the [Hydraulic Quadruped HyQ](http://new.semini.ch/research/hyq-robot/).
+In 2013 I also started a fruitful collaboration with [Michele Focchi](https://mfocchi.github.io/), an IIT researcher working with the [Hydraulic Quadruped HyQ](http://new.semini.ch/research/hyq-robot/).
 
 Since 2020 I am serving as an Associate Editor for [IEEE Robotics and Automation Letters](https://www.ieee-ras.org/publications/ra-l).
 
 ### PhD Students
 
-* **Gabriele Fadini** (co-supervision with Thomas Flayols and Philippe Soueres @ LAAS/CNRS, Toulouse, France): Co-Design for energy efficient legged robots.
+* **Ahmad Gazar** (co-supervision with Ludovic Righetti @ MPI, Tuebingen, Germany): Stochastic and Robust MPC for legged robots. [webpage](https://mg.is.tuebingen.mpg.de/person/agazar)
 
-* **Gianluigi Grandesso** (co-supervision with Patrick Wensing @ University of Notre Dame, USA): Co-Design with Reinforcement Learning.
+* **Gianluigi Grandesso** (co-supervision with Patrick Wensing @ University of Notre Dame, USA): Co-Design with Reinforcement Learning. [webpage](https://www.unitn.it/drmmse/784/grandesso-gianluigi)
 
-* **Luca Olivieri**: MPC for quadruped robots.
+* **Gabriele Fadini** (co-supervision with [Thomas Flayols](https://www.researchgate.net/profile/Thomas-Flayols) and [Philippe Soueres](https://gepettoweb.laas.fr/index.php/Members/PhilippeSou%c3%a8res) @ LAAS/CNRS, Toulouse, France): Co-Design for energy efficient legged robots.
 
-* **Ahmad Gazar** (co-supervision with Ludovic Righetti @ MPI, Tuebingen, Germany): Stochastic and Robust MPC for legged robots.
+* **Francesco Roscia** (co-supervision with [Michele Focchi](https://mfocchi.github.io/) @ IIT, Genova, Italy)
+
