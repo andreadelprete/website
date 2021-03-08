@@ -15,7 +15,7 @@ url_dataset = ""
 url_pdf = "http://arxiv.org/abs/2011.09772"
 url_project = ""
 url_slides = ""
-url_video = "https://youtu.be/3AfBM8K0wts"
+url_video = "https://youtu.be/tde1P7hLwsk"
 
 #[[url_custom]]
 #name = "Custom Link"
