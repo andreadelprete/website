@@ -14,6 +14,26 @@ weight = 55
 
 +++
 
+# Advanced Optimization-Based Robot Control
+#### Industrial Engineering Department,  2020, University of Trento (Trento, Italy)
+A 60-hour course for master students. 
+This course focuses on control of robotic systems, with special attention to methods based on optimization techniques. After reviewing the basic principles of robot modeling and numerical optimization, students will learn different control techniques, from the simplest and most well-known, to the most recent and advanced. Methods will be first studied in theory, and then implemented in simulation (with the Python language) to gain practical experience. The lab sessions will focus on industrial manipulators and legged robots, but most of the studied methods could also be applied to flying and wheeled robots. After completing the course, students will be able to:
+- understand the working principles of several control algorithms for robotic systems
+- choose the appropriate approach(es) to control a specific system for a given target application
+- implement, tune, and test control algorithms with the Python language
+
+
+##### Prerequisite
+Students should have consolidated knowledge in
+
+- Mechanics: Newtonian dynamics in 3D, homogeneous transformation for expressing vectors in different frames
+- Mathematics: linear algebra (eigenvalues, eigenvectors, rank, nullspace), multivariable differential calculus
+- Systems: state space representation, stability criteria for linear dynamical systems
+- Programming: object-oriented programming (if-else, for, while, objects, polymorphism)
+
+[Here](https://drive.google.com/drive/folders/0BwvOnEYRiTt6fnc4ZHFrVUpjNDliQXlUdWdwRE82eTNSZWNlU19OY0JpMkZ5Q3lwb0hacFE?usp=sharing) you can find videos and slides of all the lectures of two academic years (19 /20 and 20 /21, even though in 19 /20 the first lectures have not been recorded). You can also find a virtual machine (password: iamarobot) containing the software needed for the lab sessions.
+
+
 
 # [Optimization-Based Robot Control](https://andreadelprete.github.io/teaching/2019_PhD_obrc/flyer.pdf)
 #### Industrial Engineering Department,  July 2019, University of Trento (Trento, Italy)
