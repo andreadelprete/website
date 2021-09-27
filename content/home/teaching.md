@@ -31,7 +31,7 @@ Students should have consolidated knowledge in
 - Systems: state space representation, stability criteria for linear dynamical systems
 - Programming: object-oriented programming (if-else, for, while, objects, polymorphism)
 
-[Here](https://drive.google.com/drive/folders/0BwvOnEYRiTt6fnc4ZHFrVUpjNDliQXlUdWdwRE82eTNSZWNlU19OY0JpMkZ5Q3lwb0hacFE?usp=sharing) you can find videos and slides of all the lectures of two academic years (19 /20 and 20 /21, even though in 19 /20 the first lectures have not been recorded). You can also find a virtual machine (password: iamarobot) containing the software needed for the lab sessions.
+[Here](https://drive.google.com/drive/folders/0BwvOnEYRiTt6fnc4ZHFrVUpjNDliQXlUdWdwRE82eTNSZWNlU19OY0JpMkZ5Q3lwb0hacFE?resourcekey=0-I1fIOhuCcD70vbpYMve4MQ&usp=sharing) you can find videos and slides of all the lectures of two academic years (19 /20 and 20 /21, even though in 19 /20 the first lectures have not been recorded). You can also find a virtual machine (password: iamarobot) containing the software needed for the lab sessions.
 
 
 
