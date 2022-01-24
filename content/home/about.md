@@ -38,11 +38,12 @@ weight = 1
 
 # About Me
 
-My name is Andrea Del Prete. I am a robotics researcher focusing on the use of optimization algorithms for control, planning and estimation of legged robots. In this website you can find all my publications with links to open-access PDF files, videos and code. Each publication has a dedicated page where visitors can leave comments.
+My name is Andrea Del Prete. I am an associate professor focusing on the use of optimization algorithms for control, planning and estimation of legged robots. In this website you can find all my publications with links to open-access PDF files, videos and code. Each publication has a dedicated page where visitors can leave comments.
 
 ### Brief Bio
 
-Since 2019 I have been a tenure-track assistant professor (RTD-B) in the [Industrial Engineering Department of the University of Trento](https://www.dii.unitn.it) (Italy), where I am teaching robotics and computer programming in C++.
+Since 2022 I have been an associate professor in the [Industrial Engineering Department of the University of Trento](https://www.dii.unitn.it) (Italy), where I am teaching robotics and computer programming in C++.
+From 2019 to 2021 I had been a tenure-track assistant professor (RTD-B) in the same department.
 
 In 2018 I had been a research scientist in the Movement Generation and Control group at the Max-Planck Institute for Intelligent Systems (Tübingen, Germany), under the lead of [Ludovic Righetti](https://is.tuebingen.mpg.de/person/lrighetti).
 
@@ -63,4 +64,6 @@ Since 2020 I am serving as an Associate Editor for [IEEE Robotics and Automation
 * **Gabriele Fadini** (co-supervision with [Thomas Flayols](https://www.researchgate.net/profile/Thomas-Flayols) and [Philippe Soueres](https://gepettoweb.laas.fr/index.php/Members/PhilippeSou%c3%a8res) @ LAAS/CNRS, Toulouse, France): Co-Design for energy efficient legged robots.
 
 * **Francesco Roscia** (co-supervision with [Michele Focchi](https://mfocchi.github.io/) @ IIT, Genova, Italy)
+
+* **Gianni Lunardi**: Model predictive control for legged locomotion.
 
