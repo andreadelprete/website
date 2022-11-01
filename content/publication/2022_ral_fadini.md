@@ -17,9 +17,9 @@ url_project = ""
 url_slides = ""
 url_video = ""
 
-#[[url_custom]]
-#name = "Custom Link"
-#url = "http://www.example.org"
+[[url_custom]]
+name = "IEEExplore"
+url = "https://ieeexplore.ieee.org/document/9863656"
 
 [header]
 image = "2022_ral_fadini.png"
