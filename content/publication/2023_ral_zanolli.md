@@ -3,7 +3,7 @@ abstract = "This paper deals with the robust control of fully actuated robots su
 abstract_short = ""
 authors = ["Erik Zanolli, Andrea Del Prete"]
 date = "2022-11-01"
-image_preview = ""
+image_preview = "2023_ral_zanolli.png"
 math = true
 publication_types = ["2"]
 publication = "*Robotics and Automation Letters (under review)*"
@@ -22,7 +22,7 @@ url_video = ""
 #url = "http://www.example.org"
 
 [header]
-image = ""
+image = "2023_ral_zanolli.png"
 caption = ""
 
 +++
